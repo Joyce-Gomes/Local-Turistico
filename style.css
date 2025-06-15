@@ -20,9 +20,10 @@
     font-family: "Open Sans", sans-serif;
 }
 
-img {
-    width: 100%;
+img {    
     border-radius: 28px;
+    width: 100%;
+    object-fit: cover;
 }
 
 body {
